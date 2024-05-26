@@ -5,12 +5,12 @@ Updated on Sat Mar 30 2:44 PM 2024
 By: Subhey Sadi Rahman
 """
 
-import numpy as np
-import pandas as pd
 # import gurobipy as gp
 # from gurobipy import GRB
-
 # import pyscipopt as gp
+
+import numpy as np
+import pandas as pd
 from pyscipopt.scip import Model
 
 
